@@ -1,16 +1,23 @@
-### Hi there 👋
+## Front-end developrt (remote)
+* Always calm and cold-minded
+* Demonstrated experience developing consumer-focused software.
+* Strong focus on improving productivity and reliability of a code thankful using best-practices.
+* 2+ years in the industry.
 
-<!--
-**yawuxi/yawuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Skills
+Main stack: React.js, TypeScript, Redux Tool Kit, Zustand, SCSS <br />
+Tools: Vite, Webpack, Gulp, ESLint, Prettier, Husky
+Other: MongoDB, MySQL, Node.js (Express), Git, Linux, 
 
-Here are some ideas to get you started:
+### Work Experience
+Solar Jet Production <br />
+Software Engineer, (2023 - present).
+* Improving a quality of the existing codebase
+* Solution of complex tasks
+* Implemented and integrated modern solutions into existing projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Freelance & project employment <br />
+(2021 - 2023).
+* Working directly with customer
+* Self project planning
+* Discovering new methodics & first commercial experience
