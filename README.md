@@ -1,4 +1,4 @@
-## Front-end developrt (remote)
+## Front-end developer (remote)
 * Always calm and cold-minded
 * Demonstrated experience developing consumer-focused software.
 * Strong focus on improving productivity and reliability of a code thankful using best-practices.
