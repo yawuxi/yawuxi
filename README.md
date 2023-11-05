@@ -10,7 +10,7 @@ Tools: Vite, Webpack, Gulp, ESLint, Prettier, Husky
 Other: MongoDB, MySQL, Node.js (Express), Git, Linux, 
 
 ### Work Experience
-Solar Jet Production (2023 - present)<br />
+Solar Jet Production (June 12, 2023 - present)<br />
 Software Engineer.
 * Improving a quality of the existing codebase
 * Solution of complex tasks
